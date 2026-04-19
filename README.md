@@ -1,6 +1,6 @@
 # Gerador de CPF em C#
 
-Este é um projeto simples em C# que gera CPFs válidos usando o cálculo dos dígitos verificadores.
+Este é um projeto em C# que gera CPFs válidos usando o cálculo dos dígitos verificadores.
 
 O programa percorre números de 000000000 até 999999999, calcula os dois dígitos verificadores do CPF e imprime o resultado formatado no console.
 
